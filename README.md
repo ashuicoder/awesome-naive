@@ -46,6 +46,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [BetterNCM Elaina Theme](https://github.com/keiko233/elaina-theme-netease) - A NetEase Cloud Music theme plugin, built on BetterNCM platform, utilizing Naive UI for the frontend UI.
 - [Bag-admin](https://vite.itnavs.com/) - 🎉vue-bag-admin，Using Vite4, Vue3, TypeScript, JavaScript construction, support a variety of writing and call, a complete framework system, responsive background management system
 - [Pinx Admin Template](https://1.envato.market/pinx) `Premium` - Admin template built with Vue/Nuxt + TypeScript, developer friendly and designed with Naive UI and Tailwind CSS.
+- [rengar-admin](https://rengarjs.github.io/rengar-admin-doc/) - a Vue3.5 + Typescript + Naive UI + Unocss + Vite6.x admin template
 
 ### Other Projects Using NaiveUI
 
